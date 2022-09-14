@@ -16,8 +16,8 @@ body {
       font-weight: 600;
       line-height: 36px;
       font-family: EuclidCircularA-Regular;
-      text-align:centre;
-  }
+     text-align: center;
+}
     
   p {
     color: rgba(37, 38, 94, 0.87) ;
@@ -27,5 +27,5 @@ body {
       margin: auto 16px;
       font-style: normal;
       font-family: EuclidCircularA-Regular;
-      text-align:centre;
+     text-align: center;
   }
